@@ -71,7 +71,7 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your desired folder:
 
-  git clone https://github.com/your-username/live-vehicle-tracker.git
+  git clone [https://github.com/your-username/live-vehicle-tracker.git](https://github.com/Rana-Mudassir/Live-Vehicle-Tracker-backend.git)
   cd live-vehicle-tracker
 
 ### Install
